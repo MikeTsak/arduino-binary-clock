@@ -1,0 +1,5 @@
+CR2016  3V 200 mAh ~ 20 hours | 20 mm (0.787 in)	1.6 mm (0.063 in)
+CR2032	3V 230 mAh ~ 30 hours | 20 mm (0.787 in)	3.2 mm (0.126 in)
+CR2450	3V 300 mAh ~ 45 hours | 24 mm (0.945 in)	3.2 mm (0.126 in)
+LIR2032	3V 260 mAh ~ 35 hours | 20 mm (0.787 in)	2.8 mm (0.110 in)
+CR2477	3V 500 mAh ~ 70 hours | 26.5 mm (1.043 in)	3.7 mm (0.146 in)
